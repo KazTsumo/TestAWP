@@ -1,1 +1,1 @@
-����ɂ��́ASourceTree
+﻿こんにちは、SourceTree
