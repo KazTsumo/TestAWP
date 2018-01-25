@@ -51,6 +51,7 @@ namespace CalcTest.Model
         /// <param name="y">右辺値</param> 
         /// <param name="op">計算方法</param> 
         /// <returns>計算結果</returns> 
+        /// コメント追加
         public double Execute(double x, double y, CalculateType op)
         {
             return calcMap[op](x, y);
